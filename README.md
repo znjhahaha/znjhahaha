@@ -2,7 +2,7 @@
 <h3 align="center">一名全栈开发爱好者，专注于构建实用工具与教务自动化生态。</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=znjhahaha&label=  访问量&color=0e75b6&style=flat" alt="znjhahaha" />  
+  <img src="https://komarev.com/ghpvc/?username=znjhahaha&label=访问&color=0e75b6&style=flat" alt="znjhahaha" />  
 </p>
 
 ---
